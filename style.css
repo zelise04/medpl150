@@ -8,7 +8,7 @@ img {
   flex-wrap: wrap;
   justify-content: center; /* Centers horizontally */
   align-items: center;     /* Centers vertically */
-  height: 100vh;  
+  margin-top: 20px;  
 }
 
 .button {
