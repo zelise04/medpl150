@@ -34,7 +34,7 @@ img {
   text-decoration: none;
   font-size: 24px;
   cursor: pointer;
-  font-family: "Life Savers", serif;
+  font-family: "Nixie One", system-ui;
 }
 
 .btn-group .button:hover {
