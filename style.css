@@ -4,6 +4,10 @@ h1 {
   font-style: normal;
 }
 
+p {
+  font-size:20px;
+}
+
 body {
   display: flex;
   flex-direction: column; /* keeps items stacked top → bottom */
