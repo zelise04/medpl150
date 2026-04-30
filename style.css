@@ -5,7 +5,7 @@ h1 {
 }
 
 p {
-  font-size:20px;
+  font-size:15px;
 }
 
 body {
@@ -13,7 +13,7 @@ body {
   flex-direction: column; /* keeps items stacked top → bottom */
   justify-content: center; /* vertical centering */
   align-items: center;     /* horizontal centering */
-  margin: 10px;              
+  margin: 0;              
 }
 
 img {
