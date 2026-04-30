@@ -13,7 +13,7 @@ body {
   flex-direction: column; /* keeps items stacked top → bottom */
   justify-content: center; /* vertical centering */
   align-items: center;     /* horizontal centering */
-  margin: 0;              
+  margin: 10px;              
 }
 
 img {
